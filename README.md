@@ -22,3 +22,19 @@ O objetivo principal é **coletar, tratar e analisar** dados de clientes, utiliz
 - Matplotlib
 - Seaborn
 - Jupyter Notebook / Google Colab
+
+---
+
+##🔍 Insights e Recomendações
+
+Ao final da análise, foram destacados pontos importantes para a retenção de clientes:
+
+- Foco em clientes com contratos de curta duração e baixo gasto.
+
+- Desenvolvimento de planos que incentivem maior fidelização.
+
+- Campanhas personalizadas para clientes em risco.
+
+- Monitoramento constante via dashboards para tomada de decisão rápida.
+
+
