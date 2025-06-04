@@ -25,9 +25,9 @@ O objetivo principal é **coletar, tratar e analisar** dados de clientes, utiliz
 
 ---
 
-##🔍 Insights e Recomendações
+#🔍 Insights e Recomendações
 
-Ao final da análise, foram destacados pontos importantes para a retenção de clientes:
+  Ao final da análise, foram destacados pontos importantes para a retenção de clientes:
 
 - Foco em clientes com contratos de curta duração e baixo gasto.
 
