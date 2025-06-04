@@ -14,4 +14,11 @@ O objetivo principal é **coletar, tratar e analisar** dados de clientes, utiliz
 - ✅ Realização de uma **Análise Exploratória de Dados (EDA)** com relatório de insights.
 
 ---
+## 🛠 Tecnologias Utilizadas
 
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook / Google Colab
