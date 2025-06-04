@@ -24,8 +24,7 @@ O objetivo principal é **coletar, tratar e analisar** dados de clientes, utiliz
 - Jupyter Notebook / Google Colab
 
 ---
-
-#🔍 Insights e Recomendações
+##🔍 Insights e Recomendações
 
   Ao final da análise, foram destacados pontos importantes para a retenção de clientes:
 
